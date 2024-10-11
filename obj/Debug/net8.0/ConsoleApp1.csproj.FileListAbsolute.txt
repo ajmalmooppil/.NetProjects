@@ -1,0 +1,14 @@
+/home/ajmal-sadiqe/Dotnet/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1
+/home/ajmal-sadiqe/Dotnet/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.deps.json
+/home/ajmal-sadiqe/Dotnet/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.runtimeconfig.json
+/home/ajmal-sadiqe/Dotnet/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.dll
+/home/ajmal-sadiqe/Dotnet/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.pdb
+/home/ajmal-sadiqe/Dotnet/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/home/ajmal-sadiqe/Dotnet/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
+/home/ajmal-sadiqe/Dotnet/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs
+/home/ajmal-sadiqe/Dotnet/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/home/ajmal-sadiqe/Dotnet/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.dll
+/home/ajmal-sadiqe/Dotnet/ConsoleApp1/obj/Debug/net8.0/refint/ConsoleApp1.dll
+/home/ajmal-sadiqe/Dotnet/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
+/home/ajmal-sadiqe/Dotnet/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
+/home/ajmal-sadiqe/Dotnet/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll
